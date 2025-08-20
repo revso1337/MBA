@@ -1,2 +1,6 @@
 # MBA
-GitHub Criado para aprendizado MBA
+
+Aprendendo Git e GitHub para aprendizado MBA
+
+Atualizando Readme
+
